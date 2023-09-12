@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-20">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Saurabh/Downloads/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="lib" path="S:/apache-tomcat-10.1.13-windows-x64/apache-tomcat-10.1.13/lib/servlet-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://jakarta.ee/specifications/servlet/6.0/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Downloads/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Downloads/hibernate-core-5.6.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Downloads/jboss-logging-3.4.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Downloads/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Downloads/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Downloads/byte-buddy-1.14.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Downloads/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saurabh/Downloads/antlr-complete-3.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
